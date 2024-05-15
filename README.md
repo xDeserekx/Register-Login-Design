@@ -6,3 +6,7 @@ The interface is created using XAML language in WPF (Windows Presentation Founda
 ## Running the Project
 
 To run the project, open the solution (.sln) in Visual Studio and run the application.
+
+## Samples
+![LoginUI](RegisterLoginUI/Media/LoginUI.png)
+![RegisterUI](RegisterLoginUI/Media/RegisterUI.png)
